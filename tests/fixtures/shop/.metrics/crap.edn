@@ -1,0 +1,7 @@
+;; crapper snapshot (namespaces carry a src. prefix on purpose)
+{:entries [{:name "total" :namespace "src.shop.domain.model.Order" :complexity 4 :coverage 0.0 :crap 20.0}
+           {:name "discount" :namespace "shop.domain.pricing" :complexity 2, :coverage 100.0 :crap 2.0}
+           {:name "checkout" :namespace "shop.app.checkout" :complexity 1 :coverage nil :crap nil}
+           {:name "save" :namespace "shop.adapters.db.SqlRepository" :complexity 12 :coverage 10.0 :crap 117.1}
+           {:name "cost" :namespace "shop.domain.model.Order.Line" :complexity 1 :coverage 100.0 :crap 1.0}
+           {:name "ghost" :namespace "shop.gone" :complexity 1 :coverage 0.0 :crap 2.0}]}

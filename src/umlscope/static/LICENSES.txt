@@ -1,0 +1,4 @@
+Vendored third-party code (MIT licensed):
+- cytoscape 3.34.4 (c) The Cytoscape Consortium
+- dagre 0.8.5 (c) Chris Pettitt
+- cytoscape-dagre 2.5.0 (c) The Cytoscape Consortium
